@@ -1,0 +1,5 @@
+exchangelib==3.3.2
+keyring==22.0.1
+pandas==1.2.2
+openpyxl==3.0.6
+xlrd==1.2.0

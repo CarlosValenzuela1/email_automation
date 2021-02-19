@@ -1,0 +1,6 @@
+SALARY_SENDER = "carlos.valenzuela.cs@outlook.com"
+SALARY_SUBJECT = "Salary Report from Oct 2077"
+SALARY_ATTACHMENT = "Salaries from Oct 2077"
+LOW_SALARY_RESPONSE_SUBJECT = "Unable to reach 15M"
+HIGH_SALARY_RESPONSE_SUBJECT = "Congrats for over 15M"
+MY_EMAIL = "carlos.valenzuela.cs@outlook.com"
